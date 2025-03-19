@@ -1,0 +1,113 @@
+/* body {
+    background-color: #E0DEF6;
+    font-family: "Poppins";
+    margin: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    overflow: hidden;
+} */
+
+/* main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .card { */
+
+    /* position: relative;  */
+    /* If parent is relative, absolution will be set to parent */
+
+    /* padding: 40px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px; */
+/* } */
+
+/* .card header {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.card .buttons-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.card .buttons-wrapper button {
+    width: 150px;
+    height: 150px;
+    border: none;
+    background-color: #EAF8FF;
+    font-size: 64px;
+    border-radius: 10px;
+}
+
+.card .buttons-wrapper button:nth-of-type(2) {
+    font-size: 34px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: #454EF1;
+    border-radius: 100%;
+    position: absolute;
+}
+
+.circle-right {
+    right: -100px;
+    bottom: 75%;
+}
+
+.circle-left {
+    left: -100px;
+    top: 75%;
+    z-index: -1;
+} */
+
+/* NOW ALERT NO ANIMATION */
+
+/* .alert {
+    position: absolute;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border: 2px solid #454EF1;
+    border-radius: 10px;
+
+    top: 10px;
+    left: 10px;
+
+    display: none;
+
+} */
+
+/* NOW ALERT WITH SIMPLE ANIMATION */
+
+/* .alert {
+    position: absolute;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border: 2px solid #454EF1;
+    border-radius: 10px;
+
+    top: 10px;
+    left: 10px;
+
+    transform: scale(0) translateX(-300px);
+    transform-origin: left;
+    transition: transform 1s ease-in;
+
+}
+
+.show {
+    transform: scale(1) translateX(0);
+} */
